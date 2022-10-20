@@ -1,0 +1,103 @@
+
+
+body{
+    background: url(../img/HBxF.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.header{
+    background-color: rgb(253, 253, 253);
+    color: rgb(5, 3, 3);
+    font-family: 'Courier New', Courier, monospace;
+    width: 70%;
+    padding-bottom: 0.5px;
+    padding-top: 0.5%;
+    margin-left: 15%;
+    
+}
+
+.font{
+    font-size: 25px;
+    text-align: center;
+}
+
+.copy{
+    margin-left: 15%;
+    width: 70%;
+    background-color:  rgb(255, 255, 255);
+    margin-top: 2%;
+    color: #050404;
+    text-align: center;
+    font-size: 20px;
+}
+
+.todo{
+
+    margin-top: 10%;
+    margin-left: 15%;
+    
+    width: 50%;
+}
+
+.form1{
+    background-color: #f0e9dc9d;
+    margin-left: 45%;
+    margin-right: 2%;
+    width: 50%;
+    height: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: rgb(8, 5, 5);
+}
+
+.msg{
+    margin-left: 45%;
+    margin-right: 2%;
+    width: 50%;
+    height: 80px;
+    background-color: #fffdfd;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.msg21{
+    margin-top: 3%;
+    margin-left: 45%;
+    margin-right: 2%;
+    width: 50%;
+    height: 80px;
+    background-color: #E2E2E2;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.chavecrip{
+    margin-left: 42.5%;
+    margin-right: 2%;
+    width: 55%;
+    height: 40px;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btn{
+    margin-left: 58%;
+    margin-right: 2%;
+    width: 25%;
+    height: 40px;
+    background-color: #E2E2E2;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.form2{
+    margin-left: 45%;
+    margin-right: 2%;
+    width: 50%;
+    background-color: #ffffff;
+}
